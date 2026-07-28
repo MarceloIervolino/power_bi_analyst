@@ -24,6 +24,19 @@
           }
         }
       }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "false"
+              }
+            }
+          }
+        }
+      }
     ]
   },
   "resourcePackages": [
@@ -35,6 +48,27 @@
           "name": "Fluent2-CY26SU05",
           "path": "BaseThemes/Fluent2-CY26SU05.json",
           "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "logo_dio24470512980669867.png",
+          "path": "logo_dio24470512980669867.png",
+          "type": "Image"
+        },
+        {
+          "name": "Tela_de_Fundo_-_P_gina_Home5422890390068665.png",
+          "path": "Tela_de_Fundo_-_P_gina_Home5422890390068665.png",
+          "type": "Image"
+        },
+        {
+          "name": "Tela_de_Fundo_-_P_gina_Princip8250140986390674.png",
+          "path": "Tela_de_Fundo_-_P_gina_Princip8250140986390674.png",
+          "type": "Image"
         }
       ]
     }

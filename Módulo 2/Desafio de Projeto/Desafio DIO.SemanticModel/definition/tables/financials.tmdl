@@ -136,6 +136,9 @@ table financials
 		lineageTag: 4c2a1f7f-f752-4d71-abee-090d7e0bed35
 		summarizeBy: none
 		sourceColumn: Month Name
+		sortByColumn: 'Month Number'
+
+		changedProperty = SortByColumn
 
 		annotation SummarizationSetBy = Automatic
 

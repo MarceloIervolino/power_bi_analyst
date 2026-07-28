@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Desafio DIO"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c7d538e1-2715-42ad-8e84-35472e830345"
+  }
+}
